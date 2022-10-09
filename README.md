@@ -29,6 +29,22 @@ The next set of data used was the funding goals and what percentage of plays wer
 
 #### Results 
 
-In a review of the data, it was determined that the most successful funding goal asked for less than $5000 with an average success rate of 74%. Also, campaigns asking for between $35,000 – $44,999 where fully funded had a success rate of 67%.
+In a review of the data, it was determined that the most successful funding goal asked for less than $5000 with an average success rate of 74%. Also, campaigns asking for between $35,000 – $44,999 that where fully funded had a success rate of 67%.
 
-![alt text]
+![alt text](https://github.com/dbrashears63/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+
+### Conclusion
+
+For the best chance of success, it is recommended that the play launch in May and have a funding goal of under $5,000. 
+
+## Summary of Personal Challenges and Data Limitations
+
+### Personal Challenges
+
+I had many challenges for this assignment. Most of my challenges were based on my limited knowledge of Excel. Specifically creating the Plays Outcomes Based on Goals. I was using what I had learned from Theater Outcomes, however, that was not quite enough. I used all the resources available to me to overcome this obstacle. I used the information given in the Module 1 Challenge, a tutor, Ask BCS, web searches, and YouTube. I also participated in a study group. All these resources helped me overcome the challenges of pivots tables and how to create the specific formulas needed for this assignment. I have not written a report in 10 years. It took me a while to figure out how and what I wanted to write. My last challenge was editing the ReadMe file. I found a few websites and YouTube videos that helped with the syntax needed for creating the file. 
+
+
+### Data Limitations
+
+All data has limitations. For the Kickstarted data set some of the limitations are small sample size and limited fields. In addition, the use of successful is defined as it receive all it is funding. However, that is not the only factor that could define success. It could also be based how much the play made during its run or how long did the play run for. 
+In additionally one could look to see if there was a correlation between the number of backers and whether the funding goal was meet and was considered a success. This could be an additional table and chart
