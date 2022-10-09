@@ -8,7 +8,7 @@ The playwright for the play Fever nearly reached its Kickstarter goal in a short
 
 ### Background Information
 
-The task was to find what factors would contribute to a successful campaign. A sample set of Kickstarter data was used to determine these factors. Since the funding goal was nearly reached in a short time span, we will look at launch dates and funding goals to help determine the optimal funding goals and launch dates to create a successful play launch.
+The task was to find what factors would contribute to a successful campaign. A sample set of Kickstarter data was used to determine these factors. Since the funding goal was nearly reached in a short time span, we will look at launch dates and funding goals to help determine the optimal launch dates and funding goals to create a successful play launch.
 
 ### Launch Dates
 
