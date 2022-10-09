@@ -19,4 +19,4 @@ It was determined the first set of date to look at will be launch dates and whet
 
 In a review of the data, it was determined that the most successful plays were launched in the month of May. In addition, the month leading and following May were also successful, but slightly less so. Most failed plays were launch in the months of January, March, September, and in November. 
 
-![alt text]
+![alt text](https://github.com/dbrashears63/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
