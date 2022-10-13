@@ -12,7 +12,7 @@ The task was to find what factors would contribute to a successful campaign. A s
 
 ### Launch Dates
 
-It was determined the first set of date to look at will be launch dates and whether the play was a success, failure, or was cancelled. This will show the correlation between the launch date and whether the play was a success, failure, or was cancelled. By creating a graph called Theater Outcomes by Launch Date this will immediately show what month or months had the best success. 
+It was determined the first set of data to look at will be launch dates and whether the play was a success, failure, or was cancelled. This will show the correlation between the launch date and whether the play was a success, failure, or was cancelled. By creating a graph called Theater Outcomes by Launch Date this will immediately show what month or months had the best success. 
 
 #### Results
 
